@@ -25,3 +25,16 @@ h2 {
     margin-left: 10%;
     width: 30%;
 }
+#paragraphes {
+    display: flex;
+    flex-direction: row;
+
+}
+#paragraphe1 {
+    border: 3px solid green
+    
+}
+#paragraphe2 {
+    color:blueviolet
+
+}
