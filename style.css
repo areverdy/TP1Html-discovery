@@ -28,13 +28,24 @@ h2 {
 #paragraphes {
     display: flex;
     flex-direction: row;
-
-}
+}    
 #paragraphe1 {
+    border-right: 3px dashed gray;
+    width: 50%
+}
+ul {
     border: 3px solid green
     
 }
-#paragraphe2 {
-    color:blueviolet
+#paragraphe2 { 
+    color: blueviolet;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.blocs-paragraphes{
+    width: 50%;
 
 }
